@@ -864,17 +864,16 @@
       "name": "Charlie Swan",
       "aliases": [],
       "category": "supporting",
+      "species": "",
+      "faction": "",
       "role": "adoptive father/uncle",
       "symbol": "◈",
-      "image": "",
+      "image": "https://images2.imgbox.com/6c/6b/QYDLwEZD_o.jpg",
       "tags": [],
       "excerpt": "",
       "summary": "",
       "fields": [],
-      "relationships": [],
-      "group": "",
-      "species": "",
-      "faction": ""
+      "relationships": []
     },
     {
       "id": "moses-clearwater-mmbr7q3u",
@@ -3724,6 +3723,9 @@
       "character": "Charlie Swan",
       "cast": "Jason Sudeikis",
       "image": "https://images2.imgbox.com/6c/6b/QYDLwEZD_o.jpg",
+      "size": "md",
+      "directorNote": "",
+      "authorNote": "",
       "commentary": "",
       "charLink": ""
     },
