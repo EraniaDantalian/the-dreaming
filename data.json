@@ -297,7 +297,8 @@
       "excerpt": "",
       "summary": "",
       "fields": [],
-      "relationships": []
+      "relationships": [],
+      "group": ""
     },
     {
       "id": "constance--connie--black-mmbo6r1q",
@@ -315,7 +316,8 @@
       "excerpt": "",
       "summary": "",
       "fields": [],
-      "relationships": []
+      "relationships": [],
+      "group": ""
     },
     {
       "id": "kevin-littlesea-mmbo6r1q",
@@ -756,7 +758,8 @@
       "excerpt": "",
       "summary": "",
       "fields": [],
-      "relationships": []
+      "relationships": [],
+      "group": ""
     },
     {
       "id": "quil--old-man-quil--atera-iii-mmbqpn8c",
@@ -772,7 +775,8 @@
       "excerpt": "",
       "summary": "",
       "fields": [],
-      "relationships": []
+      "relationships": [],
+      "group": ""
     },
     {
       "id": "quil--q--atera-v-mmbqpn8c",
@@ -864,16 +868,17 @@
       "name": "Charlie Swan",
       "aliases": [],
       "category": "supporting",
-      "species": "",
-      "faction": "",
       "role": "adoptive father/uncle",
       "symbol": "◈",
-      "image": "https://images2.imgbox.com/6c/6b/QYDLwEZD_o.jpg",
+      "image": "",
       "tags": [],
       "excerpt": "",
       "summary": "",
       "fields": [],
-      "relationships": []
+      "relationships": [],
+      "group": "",
+      "species": "",
+      "faction": ""
     },
     {
       "id": "moses-clearwater-mmbr7q3u",
@@ -1127,7 +1132,8 @@
       "excerpt": "",
       "summary": "",
       "fields": [],
-      "relationships": []
+      "relationships": [],
+      "group": ""
     },
     {
       "id": "seth-clearwater-mmbrgac4",
@@ -2097,23 +2103,25 @@
       "excerpt": "",
       "summary": "",
       "fields": [],
-      "relationships": []
+      "relationships": [],
+      "group": ""
     },
     {
       "id": "tiffany-call-mnc6tj61",
       "name": "Tiffany Call",
       "aliases": [],
       "category": "background",
-      "species": "",
-      "faction": "",
       "role": "Embry's mother",
       "symbol": "◈",
-      "image": "https://images2.imgbox.com/d9/52/UAKU3icZ_o.jpg",
+      "image": "",
       "tags": [],
       "excerpt": "",
       "summary": "",
       "fields": [],
-      "relationships": []
+      "relationships": [],
+      "group": "",
+      "species": "",
+      "faction": ""
     }
   ],
   "trees": [
@@ -3725,18 +3733,21 @@
       "character": "Charlie Swan",
       "cast": "Jason Sudeikis",
       "image": "https://images2.imgbox.com/6c/6b/QYDLwEZD_o.jpg",
-      "size": "md",
+      "commentary": "",
+      "charLink": "",
       "directorNote": "",
       "authorNote": "",
-      "commentary": "",
-      "charLink": ""
+      "size": "md"
     },
     {
       "character": "Old Quil",
       "cast": "Wes Studi",
       "image": "https://images2.imgbox.com/2f/f3/VIUrCBFh_o.jpg",
       "commentary": "",
-      "charLink": ""
+      "charLink": "",
+      "directorNote": "",
+      "authorNote": "",
+      "size": "md"
     },
     {
       "character": "Tiffany Call",
@@ -3753,21 +3764,30 @@
       "cast": "Michelle Thrush",
       "image": "https://images2.imgbox.com/93/13/3vu9dkUO_o.jpg",
       "commentary": "",
-      "charLink": ""
+      "charLink": "",
+      "directorNote": "",
+      "authorNote": "",
+      "size": "md"
     },
     {
       "character": "Harry Clearwater",
       "cast": "Lou Diamond Phillips",
       "image": "https://images2.imgbox.com/60/8f/UAOyvWPR_o.jpg",
       "commentary": "",
-      "charLink": ""
+      "charLink": "",
+      "directorNote": "",
+      "authorNote": "",
+      "size": "md"
     },
     {
       "character": "Emmie Black",
       "cast": "Chai Hansen",
       "image": "https://images2.imgbox.com/21/53/sp7sLhya_o.jpg",
       "commentary": "",
-      "charLink": ""
+      "charLink": "",
+      "directorNote": "",
+      "authorNote": "",
+      "size": "md"
     },
     {
       "character": "Audrey Clapp",
