@@ -297,8 +297,7 @@
       "excerpt": "",
       "summary": "",
       "fields": [],
-      "relationships": [],
-      "group": ""
+      "relationships": []
     },
     {
       "id": "constance--connie--black-mmbo6r1q",
@@ -316,8 +315,7 @@
       "excerpt": "",
       "summary": "",
       "fields": [],
-      "relationships": [],
-      "group": ""
+      "relationships": []
     },
     {
       "id": "kevin-littlesea-mmbo6r1q",
@@ -758,8 +756,7 @@
       "excerpt": "",
       "summary": "",
       "fields": [],
-      "relationships": [],
-      "group": ""
+      "relationships": []
     },
     {
       "id": "quil--old-man-quil--atera-iii-mmbqpn8c",
@@ -775,8 +772,7 @@
       "excerpt": "",
       "summary": "",
       "fields": [],
-      "relationships": [],
-      "group": ""
+      "relationships": []
     },
     {
       "id": "quil--q--atera-v-mmbqpn8c",
@@ -868,17 +864,16 @@
       "name": "Charlie Swan",
       "aliases": [],
       "category": "supporting",
+      "species": "",
+      "faction": "",
       "role": "adoptive father/uncle",
       "symbol": "◈",
-      "image": "",
+      "image": "https://images2.imgbox.com/6c/6b/QYDLwEZD_o.jpg",
       "tags": [],
       "excerpt": "",
       "summary": "",
       "fields": [],
-      "relationships": [],
-      "group": "",
-      "species": "",
-      "faction": ""
+      "relationships": []
     },
     {
       "id": "moses-clearwater-mmbr7q3u",
@@ -1132,8 +1127,7 @@
       "excerpt": "",
       "summary": "",
       "fields": [],
-      "relationships": [],
-      "group": ""
+      "relationships": []
     },
     {
       "id": "seth-clearwater-mmbrgac4",
@@ -2103,25 +2097,23 @@
       "excerpt": "",
       "summary": "",
       "fields": [],
-      "relationships": [],
-      "group": ""
+      "relationships": []
     },
     {
       "id": "tiffany-call-mnc6tj61",
       "name": "Tiffany Call",
       "aliases": [],
       "category": "background",
+      "species": "",
+      "faction": "",
       "role": "Embry's mother",
       "symbol": "◈",
-      "image": "",
+      "image": "https://images2.imgbox.com/d9/52/UAKU3icZ_o.jpg",
       "tags": [],
       "excerpt": "",
       "summary": "",
       "fields": [],
-      "relationships": [],
-      "group": "",
-      "species": "",
-      "faction": ""
+      "relationships": []
     }
   ],
   "trees": [
@@ -3614,7 +3606,7 @@
     },
     {
       "id": "arcmqb0trmo",
-      "name": "New Arc",
+      "name": "",
       "color": "#8b1a4a"
     }
   ],
@@ -3733,21 +3725,18 @@
       "character": "Charlie Swan",
       "cast": "Jason Sudeikis",
       "image": "https://images2.imgbox.com/6c/6b/QYDLwEZD_o.jpg",
-      "commentary": "",
-      "charLink": "",
+      "size": "md",
       "directorNote": "",
       "authorNote": "",
-      "size": "md"
+      "commentary": "",
+      "charLink": ""
     },
     {
       "character": "Old Quil",
       "cast": "Wes Studi",
       "image": "https://images2.imgbox.com/2f/f3/VIUrCBFh_o.jpg",
       "commentary": "",
-      "charLink": "",
-      "directorNote": "",
-      "authorNote": "",
-      "size": "md"
+      "charLink": ""
     },
     {
       "character": "Tiffany Call",
@@ -3764,30 +3753,21 @@
       "cast": "Michelle Thrush",
       "image": "https://images2.imgbox.com/93/13/3vu9dkUO_o.jpg",
       "commentary": "",
-      "charLink": "",
-      "directorNote": "",
-      "authorNote": "",
-      "size": "md"
+      "charLink": ""
     },
     {
       "character": "Harry Clearwater",
       "cast": "Lou Diamond Phillips",
       "image": "https://images2.imgbox.com/60/8f/UAOyvWPR_o.jpg",
       "commentary": "",
-      "charLink": "",
-      "directorNote": "",
-      "authorNote": "",
-      "size": "md"
+      "charLink": ""
     },
     {
       "character": "Emmie Black",
       "cast": "Chai Hansen",
       "image": "https://images2.imgbox.com/21/53/sp7sLhya_o.jpg",
       "commentary": "",
-      "charLink": "",
-      "directorNote": "",
-      "authorNote": "",
-      "size": "md"
+      "charLink": ""
     },
     {
       "character": "Audrey Clapp",
